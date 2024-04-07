@@ -1,0 +1,224 @@
+.NAME  {
+ width: 767px;
+ height: 193px;
+ color: #272072;
+ font-size: 80px;
+ margin: 0px;
+}
+
+body {
+    width: 1920px;
+    background-color: #7DEEFA;
+}
+
+header {
+    height: 266px;
+    width: 1920px;
+    background-color: #6BAEE0;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+main {
+    margin-top: 500px;
+}
+
+.number {
+    width: 258px;
+    height: 48px;
+    color: #272072;
+    font-size:40px;
+    margin-top: 145px;
+}
+
+.header_top {
+    display: flex;
+    align-items: flex-start;
+}
+
+.header-img {
+    display: block;
+    margin-left: 630px;
+}
+
+.header-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #7DEEFA;
+}
+
+.header-button1, .header-button2, .header-button3 {
+    background-color: #463EA3;
+    color: #F9C655;
+    width: 639px;
+    height: 72px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    font-size: 33px;
+    line-height: 67px;
+}
+
+.KDB-text {
+    font-size: 50px;
+    margin-top: 200px;
+    width: 1280px;
+}
+
+.KDB-photo {
+    margin-top:-300px;
+    margin-left:1440px;
+}
+
+.line {
+    width: 1900px  ;
+    border-top: 2px solid #0C274A;
+    margin-top: 40px;
+}
+
+.Haaland-text {
+    font-size: 50px;
+    margin-top: 170px;
+    width: 1280px;
+}
+
+.Haaland-photo{
+    margin-top:-630px;
+    margin-left:1360px;
+}
+
+.line-2{
+    width: 1900px  ;
+    border-top: 2px solid #0C274A;
+    margin-top: 40px;
+}
+
+.Players {
+    display: none;
+}
+
+.Coaches {
+    display: none;
+}
+
+.Alvarez-photo {
+    margin-top:-300px;
+}
+
+.header-button2{
+    background-color: #301687;
+}
+
+.Alvarez-text {
+    font-size: 50px;
+    margin-top: 250px;
+    width: 1280px;
+}
+
+.Alvarez-photo {
+    margin-top:-800px;
+    margin-left:1360px;
+}
+
+.line-3 {
+    width: 1900px  ;
+    border-top: 2px solid #0C274A;
+    margin-top: 200px;
+}
+
+.Players div {
+    width: 1920px;
+}
+
+.Guardiola-photo{
+    width: 500px;
+    height: 500px;
+    margin-left: 200px;
+}
+
+.Guardiola-text{
+    font-size: 30px;
+    width: 500px;
+    text-align: center;
+    margin-left: 200px;
+
+}
+
+.Carlos-photo{
+    margin-left: -80px;
+    height: 500px;
+}
+
+.Carlos-text{
+    font-size: 30px;
+    width: 500px;
+    text-align: center;
+    margin-left: 40px;
+
+}
+
+.Главныйтренер{
+    display: inline-block;
+    width: 500px;
+    margin-top: -150px;
+}
+
+.Асистент{
+    display: inline-block;
+    width: 500px;
+    margin-top: -170px;
+}
+
+.ТренерВратарей{
+    display: inline-block;
+}
+
+.Havier-text{
+    font-size: 30px;
+    width: 500px;
+    text-align: center;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+
+.Havier-photo{
+    margin-left: 400px;
+    height: 40%;
+    width: 40%;
+    margin-bottom: 30px;
+}
+
+.NextMatch{
+    width:70%;
+    height: 60%;
+    margin-left: 150px;
+    margin-top: -100px;
+}
+
+.text-NextMatch1{
+    font-size: 40px;
+    margin-left:135px;
+    color: #0C274A;
+}
+
+.text-NextMatch2{
+    font-size: 40px;
+    margin-left:620px;
+    color: #0C274A;
+    margin-top: -85px;
+}
+
+.text-NextMatch3{
+    font-size: 40px;
+    margin-left:300px;
+    color: #0C274A;
+    border: 2px solid #0C274A;
+
+}
+
+.Следующий-матч{
+    height: 500px;
+    width: 50%;
+}
